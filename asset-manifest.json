@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addBucketAndMultiLanguage/static/css/main.b361f785.css",
+    "main.js": "/addBucketAndMultiLanguage/static/js/main.e04e3d62.js",
+    "index.html": "/addBucketAndMultiLanguage/index.html",
+    "main.b361f785.css.map": "/addBucketAndMultiLanguage/static/css/main.b361f785.css.map",
+    "main.e04e3d62.js.map": "/addBucketAndMultiLanguage/static/js/main.e04e3d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b361f785.css",
+    "static/js/main.e04e3d62.js"
+  ]
+}
